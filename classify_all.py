@@ -1,6 +1,3 @@
-# USAGE
-# python classify.py --model pokedex.model --labelbin lb.pickle --image examples/charmander_counter.png
-
 # import the necessary packages
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
